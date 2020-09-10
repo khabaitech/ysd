@@ -279,6 +279,9 @@ a:hover, a:active {
     font-weight: 600;
     line-height: 1;
 }
+.entry-header h2 {
+    font-size: 45px;
+}
 
 /*.hero-content-overlay h4 {
     margin: 0;
