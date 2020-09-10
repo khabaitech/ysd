@@ -1318,11 +1318,28 @@ ul.tabs-nav .tab-nav.active {
     padding: 46px 0 96px;
     background: #262626;
 }
-.highlighted-cause {
+.highlighte-cause {
     padding: 46px 0 96px;
     background: #262626;
 }
-
+.highlighte-cause .entry-title {
+    padding-right: 24px;
+    margin-top: 60px;
+    line-height: 1.6;
+    color: #fff;
+}
+.highlighte-cause .entry-title::before {
+    display: none;
+}
+.highlighte-cause .entry-content {
+    font-size: 14px;
+    line-height: 2;
+    color: #edf3f5;
+}
+.highlighte-cause img {
+    width: 100%;
+    margin-top: 60px;
+}
 .causes-page .highlighted-cause .entry-title {
     padding-right: 24px;
     margin-top: 60px;
@@ -1377,8 +1394,16 @@ ul.tabs-nav .tab-nav.active {
 .single-cause .highlighted-cause {
     padding: 46px 0 96px;
 }
+.highlighte-cause {
+    padding: 46px 0 96px;
+}
 
 .single-cause .highlighted-cause .entry-title {
+    padding-right: 24px;
+    margin-top: 60px;
+    line-height: 1.6;
+}
+.highlighte-cause .entry-title {
     padding-right: 24px;
     margin-top: 60px;
     line-height: 1.6;
@@ -1387,8 +1412,15 @@ ul.tabs-nav .tab-nav.active {
 .single-cause .highlighted-cause .entry-content {
     color: #929191;
 }
+.highlighte-cause .entry-content {
+    color: #929191;
+}
 
 .single-cause .highlighted-cause img {
+    width: 100%;
+    margin-top: 60px;
+}
+.highlighte-cause img {
     width: 100%;
     margin-top: 60px;
 }
