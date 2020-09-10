@@ -95,8 +95,10 @@ a:hover, a:active {
 .site-branding img{
     /*width: calc(100% - 24px);*/
     padding: 10px 0;
-    height:240px;
-    width:240px;
+    height: 86px;
+    max-height: 240px;
+    max-width: 240px;
+    width: 86px;
     
 }
 
