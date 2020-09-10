@@ -92,9 +92,12 @@ a:hover, a:active {
 /*
 # Site Branding
 --------------------------------*/
-.site-branding {
-    width: calc(100% - 24px);
-    padding: 20px 0;
+.site-branding img{
+    /*width: calc(100% - 24px);*/
+    padding: 10px 0;
+    height:50px;
+    width:50px;
+    
 }
 
 .site-branding a {
