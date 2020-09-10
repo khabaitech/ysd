@@ -15,7 +15,7 @@ img {
 # Links
 --------------------------------------------------------------*/
 a {
-    color: #24a500;
+    color: #262222;
 }
 
 a:visited {
@@ -23,7 +23,7 @@ a:visited {
 }
 
 a:hover, a:focus, a:active {
-    color: #24a500;
+    color: #262222;
 }
 
 a:focus {
