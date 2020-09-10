@@ -273,18 +273,18 @@ a:hover, a:active {
     object-fit: cover;
 }
 
-.hero-content-overlay h1 {
+.hero-content-overlay h2 {
     margin: 0;
-    font-size: 102px;
+    font-size: 45px;
     font-weight: 600;
     line-height: 1;
 }
 
-.hero-content-overlay h4 {
+/*.hero-content-overlay h4 {
     margin: 0;
     font-size: 46px;
     font-weight: 600;
-}
+}*/
 
 .hero-content-overlay p {
     font-weight: 500;
