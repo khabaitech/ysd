@@ -1318,6 +1318,10 @@ ul.tabs-nav .tab-nav.active {
     padding: 46px 0 96px;
     background: #262626;
 }
+.highlighted-cause {
+    padding: 46px 0 96px;
+    background: #262626;
+}
 
 .causes-page .highlighted-cause .entry-title {
     padding-right: 24px;
