@@ -642,6 +642,7 @@ ul.tabs-nav .tab-nav.active {
     background: #ecf2f5;
     text-align: center;
     transition: all .35s;
+    height:400px;
 }
 
 .icon-box:hover,
